@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime, timedelta
-from library_service import calculate_late_fee_for_book
+from services.library_service import calculate_late_fee_for_book
 
 class TestCalculateLateFeeForBook(unittest.TestCase):
 

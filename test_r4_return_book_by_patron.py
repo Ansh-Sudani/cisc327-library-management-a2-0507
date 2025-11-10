@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from library_service import return_book_by_patron
+from services.library_service import return_book_by_patron
 
 class TestReturnBookByPatron(unittest.TestCase):
 

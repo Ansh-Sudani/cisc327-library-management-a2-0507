@@ -1,6 +1,6 @@
 import pytest
 from unittest.mock import patch
-from library_service import search_books_in_catalog
+from services.library_service import search_books_in_catalog
 
 # Sample book data
 BOOKS = [

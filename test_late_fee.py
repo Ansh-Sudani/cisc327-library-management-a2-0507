@@ -1,6 +1,6 @@
 import pytest
 from datetime import datetime, timedelta
-from library_service import calculate_late_fee_for_book
+from services.library_service import calculate_late_fee_for_book
 
 # ----------------------------
 # Test: On-time or not overdue

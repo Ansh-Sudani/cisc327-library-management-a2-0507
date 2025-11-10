@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 from datetime import datetime, timedelta
-from library_service import borrow_book_by_patron
+from services.library_service import borrow_book_by_patron
 
 class TestBorrowBookByPatron(unittest.TestCase):
 

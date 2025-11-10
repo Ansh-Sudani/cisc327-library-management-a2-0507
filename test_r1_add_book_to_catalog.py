@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from library_service import add_book_to_catalog
+from services.library_service import add_book_to_catalog
 
 class TestAddBookToCatalog(unittest.TestCase):
 

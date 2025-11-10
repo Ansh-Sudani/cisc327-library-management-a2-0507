@@ -49,3 +49,4 @@ See [`student_instructions.md`](student_instructions.md) for complete assignment
 - [Python Blueprint](https://flask.palletsprojects.com/en/stable/blueprints)
 
 
+[![Python Tests (CI)](https://github.com/Ansh-Sudani/cisc327-library-management-a2-0507/actions/workflows/python-ci.yml/badge.svg)](https://github.com/Ansh-Sudani/cisc327-library-management-a2-0507/actions/workflows/python-ci.yml)

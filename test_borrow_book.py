@@ -1,5 +1,5 @@
 import pytest
-from library_service import borrow_book_by_patron
+from services.library_service import borrow_book_by_patron
 from unittest.mock import patch
 
 @patch("library_service.update_book_availability")

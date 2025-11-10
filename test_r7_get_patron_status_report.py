@@ -1,5 +1,5 @@
 import unittest
-from library_service import get_patron_status_report
+from services.library_service import get_patron_status_report
 
 class TestGetPatronStatusReport(unittest.TestCase):
 

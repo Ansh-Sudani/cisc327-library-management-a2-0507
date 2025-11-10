@@ -1,5 +1,5 @@
 import pytest
-from library_service import add_book_to_catalog
+from services.library_service import add_book_to_catalog
 from unittest.mock import patch
 
 @patch("library_service.insert_book")
